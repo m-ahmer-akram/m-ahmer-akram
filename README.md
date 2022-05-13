@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Ahmer
 - 👀 I’m interested in being an impressive developer
-- 🌱 I’m currently learning Advanced Python
+- 🌱 I’m currently learning AngularJS Development.
 - 📫 Reach me through email: mahmerakram6@gmail.com
 
 <!---
