@@ -7,7 +7,7 @@
 <h3>Portfolio</h3>
 <ul>
  <li><a href"https://m-ahmer-akram.github.io/expense-manager-3" target="_blank">Expense Manager!</a></li>
- <li>https://m-ahmer-akram.github.io/food-ordering-app</li>
+ <li target="_blank">https://m-ahmer-akram.github.io/food-ordering-app</li>
  <li>https://m-ahmer-akram.github.io/http-react</li>
  <li>https://m-ahmer-akram.github.io/food-ordering-app-http</li>
  <li>https://m-ahmer-akram.github.io/advanced-redux</li>
