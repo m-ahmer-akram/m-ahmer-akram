@@ -6,13 +6,13 @@
 <h1>Projects Created With React</h1>
 <h3>Portfolio</h3>
 <ul>
- <li><a href"https://m-ahmer-akram.github.io/expense-manager-3" target="_blank">Expense Manager!</a></li>
- <li target="_blank">https://m-ahmer-akram.github.io/food-ordering-app</li>
- <li>https://m-ahmer-akram.github.io/http-react</li>
- <li>https://m-ahmer-akram.github.io/food-ordering-app-http</li>
- <li>https://m-ahmer-akram.github.io/advanced-redux</li>
- <li>https://react-routing-9ea36.web.app/quotes</li>
- <li>https://m-ahmer-akram.github.io/material-ui</li>
+ <li>Expense Manager: https://m-ahmer-akram.github.io/expense-manager-3</li>
+ <li>Food Ordering Application: https://m-ahmer-akram.github.io/food-ordering-app</li>
+ <li>Firebase Https Connections: https://m-ahmer-akram.github.io/http-react</li>
+ <li>Https Connectio for Food Ordering App: https://m-ahmer-akram.github.io/food-ordering-app-http</li>
+ <li>Cart Using Redux: https://m-ahmer-akram.github.io/advanced-redux</li>
+ <li>Quotes Manager: https://react-routing-9ea36.web.app/quotes</li>
+ <li>Material UI: https://m-ahmer-akram.github.io/material-ui</li>
 </ul>
 
 <!---
